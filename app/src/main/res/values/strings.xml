@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoInstaCamera</string>
+    <string name="stab_type_off">Stabilization Off</string>
+    <string name="stab_type_panorama">Panorama</string>
+    <string name="stab_type_calibrate_horizon">Calibrate Horizon</string>
+    <string name="stab_type_footage_motion_smooth">Footage Motion Smooth</string>
+    <string name="common_toast_temperature_high">Camera temperature is high</string>
+    <string name="common_toast_temperature_high_shutdown">Camera temperature is too high, shutting down</string>
+</resources>
